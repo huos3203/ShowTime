@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="总览"/>
+        <page name="Behavioral行为型"/>
+        <page name="Creational创建型"/>
+        <page name="Structural结构型"/>
+    </pages>
+</playground>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="DownLoadView"/>
+        <page name="ExclusionPath"/>
+        <page name="笑脸"/>
+    </pages>
+</playground>

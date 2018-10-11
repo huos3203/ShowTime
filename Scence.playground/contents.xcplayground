@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="SceneKitMac"/>
+        <page name="HandyFunctions"/>
+        <page name="CollectionOperations"/>
+        <page name="AccelerateFunctions"/>
+        <page name="旋转环"/>
+        <page name="立体球"/>
+    </pages>
+</playground>

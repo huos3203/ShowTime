@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="字面量"/>
+        <page name="可视化QuickLook 预览"/>
+        <page name="基本语法"/>
+        <page name="内联闭包"/>
+        <page name="class"/>
+        <page name="realmSwift使用"/>
+        <page name="枚举类型"/>
+        <page name="结构体"/>
+        <page name="属性与方法统一"/>
+        <page name="函数声明与调用"/>
+        <page name="使用函数类型作为返回类型"/>
+    </pages>
+</playground>

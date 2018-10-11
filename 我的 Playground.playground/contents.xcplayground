@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="访问私有属性"/>
+        <page name="冒泡排序"/>
+        <page name="计算器"/>
+        <page name="爬虫"/>
+    </pages>
+</playground>

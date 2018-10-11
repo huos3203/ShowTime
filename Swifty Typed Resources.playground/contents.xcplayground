@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="true" version="6.0" target-platform="ios">
+    <pages>
+        <page name="Strings"/>
+        <page name="Fonts"/>
+        <page name="Colors"/>
+        <page name="Images"/>
+        <page name="Autogenerate"/>
+    </pages>
+</playground>
